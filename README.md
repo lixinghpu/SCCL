@@ -41,8 +41,11 @@
   
 　　@article{
 　　　　title={Efficient Style-Corpus Constrained Learning for Photorealistic Style Transfer},
+
 　　　　author={Yingxu Qiao, Jiabao Cui, Fuxian Huang, Hongmin Liu*, Cuizhu Bao, Xi Li},
+
 　　　　journal={IEEE Trans. On Image Processing},
+
 　　　　year={2021}
 　　　}
     
