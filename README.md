@@ -22,8 +22,7 @@
 
 - Generate the output image.
 
-    Prepare your content image and style image.
-
+    
     ```
     python test.py --content "content_path"  --style  "style_path"  --output_name "result_name"  --model_state_path  "pretrained_dir"
     ```
@@ -39,14 +38,14 @@
 
 
 ### Citation
-    ```
+  
     @article{
       title={Efficient Style-Corpus Constrained Learning for Photorealistic Style Transfer},
       author={Yingxu Qiao, Jiabao Cui, Fuxian Huang, Hongmin Liu*, Cuizhu Bao, Xi Li},
       journal={IEEE Trans. On Image Processing},
       year={2021}
     }
-    ```
+    
 
 ## Contact
 
