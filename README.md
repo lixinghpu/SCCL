@@ -29,7 +29,7 @@
 
 ## Acknowledgement
 
-    Our implementation is highly inspired from the implementation of [AdaIN](https://github.com/irasin/Pytorch_AdaIN) and [WCT<sup>2</sup>](https://github.com/clovaai/WCT2).
+　　Our implementation is highly inspired from the implementation of [AdaIN](https://github.com/irasin/Pytorch_AdaIN) and [WCT<sup>2</sup>](https://github.com/clovaai/WCT2).
 
 ## References
 
@@ -49,4 +49,4 @@
 
 ## Contact
 
-    Feel free to contact me if there is any question (qiaoyingxu@hpu.edu.cn).
+　　Feel free to contact me if there is any question (qiaoyingxu@hpu.edu.cn).
