@@ -14,8 +14,7 @@
 
 - Download pre-trained models.
 
-    Baidu：https://pan.baidu.com/s/19JENFU19r-KZx3poxPfzHQ
-
+    Baidu：链接：https://pan.baidu.com/s/1V3iUXxnSTs2M7diDgVyFRA 
     mask： 6lv2
 
 
