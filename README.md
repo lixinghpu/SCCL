@@ -4,7 +4,6 @@
 - Python3.7
 - Pytorch 1.1
 
-
 ## Test
 - Clone from github: 
 
@@ -14,14 +13,10 @@
 
 - Download pre-trained models.
 
-    Baidu：https://pan.baidu.com/s/19JENFU19r-KZx3poxPfzHQ
-
+    Baidu：链接：https://pan.baidu.com/s/1V3iUXxnSTs2M7diDgVyFRA 
     mask： 6lv2
 
-
-
 - Generate the output image.
-
     
     ```
     python test.py --content "content_path"  --style  "style_path"  --output_name "result_name"  --model_state_path  "pretrained_dir"
